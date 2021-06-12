@@ -146,3 +146,68 @@ header > h3{
 	top: 572px;
 	left: 139px;
 }
+/* section */
+
+.articlebox{
+	display: inline-block;
+	margin-left: 126px;
+	margin-top: 70px;
+	width:536px ;
+	height: 461px;
+}
+section h2 {
+	font-size: 42px;
+	font-family: 'Poppins-extrabold';
+	width: 374px;
+	height: 115px;
+}
+#first{
+	font-size: 16px;
+	font-family: 'Poppins-medium';
+	width: 444px;
+	height: 78px;
+}
+#second{
+	margin-top: 14px;
+	font-size: 14px;
+	font-family: 'Poppins-regular';
+	width: 444px;
+	height: 84px;
+}
+#read a{
+	font-size: 14px;
+	font-family: 'Poppins-regular';
+	color: white;
+	vertical-align: middle;
+	display: inline-block;
+	padding-left: 45px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 44.6px;
+}
+#read{
+	width: 184px;
+	height: 50px;
+	background-color: #5863F8;
+	margin-left: 10px;
+	margin-top: 36px;
+}
+#read  img{
+	vertical-align: middle;
+	display: inline-block;
+}
+.imagesbox{
+	vertical-align: top;
+	display: inline-block;
+	width: 536px;
+	height: 461px;
+	margin-top: 70px;
+	margin-right: 139px;
+}
+#hall{
+	margin-left: 12px;
+}
+#stars{
+	margin-top: 12px;
+}
+/*section */
