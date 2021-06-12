@@ -62,7 +62,7 @@ h1{
 }
 header ul{
 	position: absolute;
-	right: 139px;
+	margin-left: 665px;
 	color: white;
 	font-size: 12px;
 	top: 0px;
