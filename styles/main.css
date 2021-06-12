@@ -45,6 +45,7 @@ a{
 	text-decoration: none;
 	color: inherit;
 }
+/* header */
 .box{
     display: inline-block;
 }
@@ -210,4 +211,37 @@ section h2 {
 #stars{
 	margin-top: 12px;
 }
-/*section */
+/*footer */
+.footerbox{
+	margin-top: 64px;
+	width: 1366px;
+	height: 304px;
+	background-color: #121212;
+}
+.footerinfo{
+	display: inline-block;
+	width: 828px;
+	height: 191px;
+	margin-top: 50px;
+	margin-left: 139px;
+}
+.footerinfo > h3{
+	color: white;
+	font-size: 24px;
+	font-family: 'Poppins-bold';
+}
+.footerinfo >p {
+	margin-top: 20px;
+	font-size: 14px;
+	color: #B1B1B1;
+	font-family: 'Poppins-medium';
+}
+.footerinfo > div{
+	margin-top: 20px;
+}
+.footerinfo img {
+	padding-right: 21.5px;
+}
+.copy{
+	margin-top: 9px;
+}
